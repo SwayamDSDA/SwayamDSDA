@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Swayam 👋
 
-<!--
-**SwayamDSDA/SwayamDSDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+I'm a recent Computer Science graduate building my skills in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Completed the Python module of my Data Analytics course
+- 📊 Currently learning Power BI
+- 🔍 Interested in data analysis, data cleaning, and data visualization
+- 🌱 Always eager to learn and improve my skills
+
+## Skills
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Currently Learning:** Power BI
+
+## Career Goal
+To build strong practical skills in Data Analytics and begin my career as a Data Analyst.
