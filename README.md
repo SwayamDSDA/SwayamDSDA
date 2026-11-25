@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Swayam Jadhav
 
-<!--
-**SwayamDSDA/SwayamDSDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Graduate | 📊 Data Analytics | 🐍 Python | 📈 Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Computer Science graduate with a strong interest in Data Analytics and transforming raw data into meaningful insights.
+
+I enjoy exploring datasets, identifying patterns, and presenting information through meaningful visualizations. Currently focused on strengthening my analytical skills through practical projects and continuous learning.
+
+### 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| 💻 Programming | Python |
+| 📚 Libraries | NumPy, Pandas |
+| 📊 Data Visualization | Matplotlib, Seaborn |
+| 📈 Business Intelligence | Power BI |
+| 🔍 Analytical Skills | Data Cleaning, Exploratory Data Analysis (EDA) |
+
+### 🚀 What I'm Working On
+
+- Building practical Data Analytics projects.
+- Strengthening Python and data analysis skills.
+- Exploring data visualization and business intelligence.
+- Building a strong foundation in SQL and Advanced Excel.
+
+### 🎯 Areas of Interest
+
+- Data Analytics
+- Exploratory Data Analysis
+- Business Intelligence
+- Data Visualization
+- Business Insights
+
+### 🤝 Connect With Me
+
+💼 **LinkedIn:** [Swayam Jadhav](https://www.linkedin.com/in/swayam-jadhav-169208431)
